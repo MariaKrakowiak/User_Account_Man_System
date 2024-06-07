@@ -5,7 +5,7 @@ Created API allows to perform simple CRUD operations as follows:
 * GET /user/{id} : Retrieves user details for specific id.
 * POST /user/ : Creates new user details.
 * PATCH /user/{id} : Updates user details for specific id.
-* DELETE /user{id}: Deletes user details for specific id.
+* DELETE /user/{id}: Deletes user details for specific id.
 * GET /user/page : Retrieves sorted user details in defined order.
 
 
